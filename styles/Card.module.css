@@ -29,7 +29,8 @@
   .card .title {
     text-transform: capitalize;
     margin-bottom: 1em;
-    font-size: 1.4em;
+    font-size: 1.4em; 
+    
   }
   
   .card .btn {

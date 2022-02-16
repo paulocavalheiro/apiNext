@@ -1,0 +1,37 @@
+.containerCaso{
+	margin-top: 10px !important;
+	padding: 5px;
+}
+.stream_init{
+	height: 80vh;
+	position: relative;
+	background-size: cover;
+	background-color: rgba(56, 71, 90, 0.95);	
+	text-align: center;
+	padding: 5px;
+}
+.stream_texto{
+	margin: auto;
+	position:relative;
+	top:25%;
+	width: 50%;
+	height: 50%;
+	color: #ffff;
+	background-image: url("../public/images/logo.png");
+	background-size: 20%;
+	background-repeat: no-repeat;
+	text-align: center;
+	border-top: solid 1px #ffffb3;
+	border-bottom: solid 1px #ffffb3;
+	font-size: 1.6em;
+	text-align: center;
+	min-height: 30%;
+	padding: 30px 0px;
+	display: flex;
+	align-items: center;
+}
+.stream_btn{
+	margin: auto;
+	position:relative;
+	top:26%;
+}

@@ -1,5 +1,5 @@
 * {
-    font-family: Helvetica;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -7,6 +7,7 @@
   
   .main-container {
     min-height: 70vh;
+    padding: 20px;
   }
 
   body{ 
@@ -16,4 +17,8 @@
   
   .footer{
     margin-top:auto; 
+  }
+
+  .containerCaso{
+    margin-top: 10px;
   }

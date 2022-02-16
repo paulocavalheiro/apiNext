@@ -40,6 +40,13 @@ export default function NavBar(){
 					Sobre
 				</NavLink>
 			</NavItem>
+			<NavItem>
+				<NavLink
+					href="/caso"
+				>
+					Caso
+				</NavLink>
+			</NavItem>
 			
 		</Nav>
 		</>
